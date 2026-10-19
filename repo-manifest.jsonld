@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/zheller/flake8-quotes/commit/e75accbd40f0e1fa1e8f0e746b93c9766db8f106",
       "git:hexsha": "e75accbd40f0e1fa1e8f0e746b93c9766db8f106",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "3.4.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "3.4.0",
+      "repolex:parsedAt": "2026-10-19T11:44:42.804223+00:00"
     },
     {
       "@id": "https://repolex.ai/r/zheller/flake8-quotes/commit/6f29e87ce3707cad52aa53a0ccfe28f38324fee6",
