@@ -1,0 +1,11 @@
+{
+  "org": "zheller",
+  "repo": "flake8-quotes",
+  "versions": [
+    {
+      "commit": "e75accbd40f0e1fa1e8f0e746b93c9766db8f106",
+      "tag": "3.4.0",
+      "parsed_at": "2026-10-19T11:44:42.804881+00:00"
+    }
+  ]
+}
